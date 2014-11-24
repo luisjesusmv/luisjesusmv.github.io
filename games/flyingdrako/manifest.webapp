@@ -1,0 +1,23 @@
+﻿{
+	"name": "Flying Drako",
+	"description": "Help drako to scape from the peaks.",
+	"version": "1.0",
+	"launch_path": "/games/flyingdrako/",
+	"orientation": ["portrait", "landscape"],
+	"icons": {
+		"16": "/games/flyingdrako/icon-16.png",
+		"32": "/games/flyingdrako/icon-32.png",
+		"128": "/games/flyingdrako/icon-128.png",
+		"256": "/games/flyingdrako/icon-256.png"
+	},
+	"developer": {
+		"name": "Bitxel Games",
+		"url": "http://bitxelgames.co.nf"
+	},
+	"default_locale": "en",
+	"permissions": {
+	},
+	"appcache_path": "/games/flyingdrako/offline.appcache",
+	"orientation": ["landscape-primary","portrait-secondary"],
+	"fullscreen": "true"
+}
