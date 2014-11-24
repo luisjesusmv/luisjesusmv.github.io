@@ -18,6 +18,5 @@
 	"permissions": {
 	},
 	"appcache_path": "/games/flyingdrako/offline.appcache",
-	"orientation": ["landscape-primary","portrait-secondary"],
 	"fullscreen": "true"
 }
