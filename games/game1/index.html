@@ -1,10 +1,19 @@
-<!DOCTYPE html><!--HTML5 doctype-->
-<html><head>
-<head>
-<title>Leadbolt Framed Ad for Android Games</title>
-<meta http-equiv="Content-type" content="text/html; charset=utf-8"> 
-</head>
-<body>
- <script type="text/javascript" src="http://ad.leadboltmobile.net/show_app_ad.js?section_id=529763869"></script>
-</body>
-</html>
+<script src='http://my.mobfox.com/ad.js'></script> <!--This goes in your HEAD Section -->
+
+<!--Place the code below everywhere where you want an ad to appear. -->
+
+<script>
+RequestAd_({
+
+    // Ad Request Variables
+    s:'ffa5b63472c6e08c2df1e79ef365f158',
+    m:'live', <!-- Change to 'test' to show a test ad -->
+    adspace_width:'320', <!-- Maximum Width of your Banner -->
+    adspace_height:'50', <!-- Maximum Height of your Banner -->
+    adspace_strict:'0', <!-- If you change this parameter to 1, the ad size set above will be strict and no smaller ads will be shown. -->
+    backfillhtml:'', <!-- Insert HTML Code here that should be shown when no ad is available -->
+    prependclickcontent:'', <!-- Prepend something before Click URLs. It is recommended to leave this parameter empty.  -->
+    trackingpixelurl:'' <!-- Ping a Tracking Pixel everytime an ad is shown. -->
+	});
+</script>
+
