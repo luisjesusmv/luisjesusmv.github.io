@@ -1,0 +1,13 @@
+﻿{
+  "name": "Zombie Arena	",
+  "description": "Kill all the zombies!",
+  "launch_path": "http://luisjesusmv.github.io/games/zombiearena/",
+  "icons": {
+    "128": "icon-128.png"
+  },
+  "developer": {
+    "name": "Bitxel Games",
+    "url": "http://luisjesusmv.github.io"
+  },
+  "default_locale": "en"
+}
