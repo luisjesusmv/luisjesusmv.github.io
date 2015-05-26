@@ -1,0 +1,15 @@
+{
+  "name": "Zombies in my lawn",
+  "description": "Kill the zombies!",
+  "launch_path": "/zombies/",
+  "icons": {
+    "128": "/icon-128.png"
+  },
+  "developer": {
+    "name": "Bitxel Games",
+    "url": "http://bitxelgames.github.io/home/"
+  },
+  "default_locale": "en",
+  fullscreen": "true",
+  "orientation": ["landscape-primary","portrait-secondary"]
+}
