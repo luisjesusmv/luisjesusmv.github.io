@@ -1,0 +1,121 @@
+Manifest-Version: 1.0
+
+Name: index.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: sx6KhsOZfrn6AwLucOsS1Q==
+SHA1-Digest: 3nm5gIztxclY2/UjMaTKw1gmM3Q=
+
+Name: inneractive.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 2EnRDsKBoBUpBqItM4OcIg==
+SHA1-Digest: Whl7Uq6PA1fj0c54RKd7lVNCGNw=
+
+Name: level_game.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 12NGbH5CaErJyrW0FMYoVQ==
+SHA1-Digest: kceF60uBjJukDbIcqRZLxIGnWs8=
+
+Name: level_menu.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 8dYVf29tDaR6jxymcrauSw==
+SHA1-Digest: EWS2hrg3eU8BPBw/aOc0zYiYa2o=
+
+Name: manifest.webapp
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 7a3wwXDYIOBExWn8dV3VeQ==
+SHA1-Digest: nfBMFtz5hnzE4cUYcuBRs/7ZMqs=
+
+Name: phaser.min.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: uLCy1nI8I5GHl8EdmeOLQQ==
+SHA1-Digest: 5dBWUgsjt4ebUnnU8yGHP8qJYq8=
+
+Name: assets/b_close.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: L/kmoANUmu7L8mGyVLnm1Q==
+SHA1-Digest: J70sYLxcHxJICZeTOxsK/W6Icr4=
+
+Name: assets/b_menu.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: rbUklRt4G85OP3AgLJG4KA==
+SHA1-Digest: uVxQD6YbjyN7wfPpLguN75GU0SQ=
+
+Name: assets/button_erase.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: qObGSTz2UCBvlOE32fgFcw==
+SHA1-Digest: jUuSXpabCteF5UFE8RkXlKWoju8=
+
+Name: assets/button_paly.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: hnqlTRkv2KWFZc5m0dRzUw==
+SHA1-Digest: 6ROt9HzeI3VajYDYTi77NrACjXs=
+
+Name: assets/button_play.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: hnqlTRkv2KWFZc5m0dRzUw==
+SHA1-Digest: 6ROt9HzeI3VajYDYTi77NrACjXs=
+
+Name: assets/buttons.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: xY7a5mpH4tW714bRtXLnWg==
+SHA1-Digest: phkmaYtAf/JRmlURolow2jEpMmY=
+
+Name: assets/crash.wav
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: rVaoxsChCcJfdOIDWRuwKg==
+SHA1-Digest: F2EvZx+3gyo6KjXoZMirIUXEi/w=
+
+Name: assets/elements.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: SeFONCrjGj7/n59Rehh1eg==
+SHA1-Digest: es1Fg2MwW+kd7iphN7NnmIa8sXU=
+
+Name: assets/game_background.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Ip2lZET8EPl5Lmf7zL7OgA==
+SHA1-Digest: jItiVieHQMIaEOZytB5FX5g6yMw=
+
+Name: assets/game_menu.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: pLRsKXCCP5r4UJikmJUldQ==
+SHA1-Digest: 3gsdhT7b/mV5GaNm5UOyQgiQXgA=
+
+Name: assets/icon-128.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: KIf7+3p+5HaJShvo8Y2IXg==
+SHA1-Digest: cCz2e7k59kULVaDBvPI052W9j4I=
+
+Name: assets/icon-60.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: eXFcs7qmZj2hS9a6Tri+HA==
+SHA1-Digest: kORZ9a04G0LThwpt2EckVIDr9P0=
+
+Name: assets/new_hiscore.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: LPNTmwZr2ceHVlh0PtY+5A==
+SHA1-Digest: cZ4QtssMb3vEgm0Z2h00Pki2gY4=
+
+Name: assets/pop.wav
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 5Ya5INw0ayBwnjNM4YXB+Q==
+SHA1-Digest: A7Cp2Hp1UzUcTRT2IftErkQ2wkM=
+
+Name: assets/select.wav
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: xl1M4cCntNt9N2eIBKerXA==
+SHA1-Digest: jvzZmq7TKd/8XurGfEw+il54EHI=
+
+Name: assets/shine.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: zxmTPCc1ERQ3B2dRWXZNDQ==
+SHA1-Digest: e8bc5mVoVXaWol0L8uqr7tPfAzY=
+
+Name: assets/your_score.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: JV8q6OWr6GgHzpUPzzTPBg==
+SHA1-Digest: 4paR+QqPZFiX9eSA+Xua9VY7ir4=
+
+Name: META-INF/ids.json
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: cGYDacTEKYcQ421IqYezRA==
+SHA1-Digest: ks06xoKhc5U2vVkzPRXHQPzZKJs=

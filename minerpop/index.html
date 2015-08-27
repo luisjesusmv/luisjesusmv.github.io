@@ -1,0 +1,36 @@
+<html>
+	<head>
+		<title>MinerPop</title>
+		<style type="text/css">
+			body {
+				margin: 0 auto;
+			}
+		</style>
+		<script type="text/javascript" src="phaser.min.js"></script>
+		<script type="text/javascript">
+
+			var game = new Phaser.Game(320, 480, Phaser.CANVAS);
+
+		</script>
+		<script type="text/javascript" src="level_menu.js"></script>
+		<script type="text/javascript" src="level_game.js"></script>
+	</head>
+	<body>
+		<script type="text/javascript">
+
+			window.onload = function() {
+
+				game.state.add('level_menu', level_menu);
+				game.state.add('level_game', level_game);
+
+				game.state.start('level_menu');	
+			}
+		</script>
+		<!--
+    INVENTORY HASH: ffa5b63472c6e08c2df1e79ef365f158
+    TYPE: banner
+    SIZE: 320x50
+-->
+<script class="mobfoxConfig" src="http://my.mobfox.com/ad_sdk.js?cb=CACHEBUSTER&referrer=REFERRER_URL&width=320&height=50&invh=ffa5b63472c6e08c2df1e79ef365f158&type=banner"></script>
+	</body>
+</html>

@@ -1,0 +1,16 @@
+{
+	"name": "MinerPop",
+	"description": "Group the gems to get it and win!",
+	"launch_path": "/index.html",
+	"icons": {
+		"60": "/assets/icon-60.png",
+		"128": "/assets/icon-128.png"
+	},
+	"developer": {
+		"name": "OnRender Games",
+		"url": "http://www.onrendergames.blogspot.com"
+	},
+	"orientation": ["portrait-primary", "landscape-secondary"],
+	"default_locale": "en",
+	"version": "1.01"
+}
